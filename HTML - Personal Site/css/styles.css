@@ -1,0 +1,22 @@
+body {
+  background-color: #FFDEDE;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+  color: #F2789F;
+  font-weight: 700;
+}
+
+h3 {
+  color: #F2789F;
+  font-weight: 500;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #FFEDED;
+  border-width: 6px;
+  width: 3%;
+}
